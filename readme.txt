@@ -1,33 +1,26 @@
 /******************************************************************
-Bones
-A Lightweight Wordpress Development Theme
+Jenesis 2.0 is a Bones (by Eddie Machado) and Zurb Foundation slammed 
+together to make a wonderful lightweight multipurpose theme.
 
-Bones is designed to make the life of developers easier. It's built
-using HTML5 & has a strong semantic foundation.
-It's constantly growing so be sure to check back often if you are a
-frequent user. I'm always open to contribution. :)
+Jenesis is design to make protoype themes or full functional theme. Like 
+its protossers it's built using HTML5 and using SASS CSS process. You are 
+welcome to contribute to this project.
 
-Designed by Eddie Machado
-http://themble.com/bones
-
+(Same as Bones)
 License: WTFPL
 License URI: http://sam.zoy.org/wtfpl/
 Are You Serious? Yes.
 
-Special Thanks to:
-Paul Irish & the HTML5 Boilerplate
-Yoast for some WP functions & optimization ideas
-Andrew Rogers for code optimization
-David Dellanave for speed & code optimization
-and several other developers. :)
+Big Ups to:
+Eddie Machado and the Gang over at the Bones Github for keeping this
+lightweight and simple (https://github.com/eddiemachado/bones). And all
+who has showed them the way.
+To the great people at the Zurb Foundation
 
-Submit Bugs & or Fixes:
-https://github.com/eddiemachado/bones/issues
-
-To view Release & Update Notes, read the log.txt file inside
-the library folder.
-
-For more news and to see why my parents constantly ask me what I'm
-doing with my life, follow me on twitter: @eddiemachado
+Goals:
+-Intergrate Foundation Code
+-Embedd Redux Options Framework
+-Add Landing Page Template file
+-Add update and add additional template files
 
 ******************************************************************/
