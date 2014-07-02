@@ -6,10 +6,8 @@ Jenesis is design to make protoype themes or full functional theme. Like
 its protossers it's built using HTML5 and using SASS CSS process. You are 
 welcome to contribute to this project.
 
-(Same as Bones)
-License: WTFPL
-License URI: http://sam.zoy.org/wtfpl/
-Are You Serious? Yes.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Big Ups to:
 Eddie Machado and the Gang over at the Bones Github for keeping this

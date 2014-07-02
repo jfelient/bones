@@ -1,5 +1,5 @@
 /*
- * Bones Scripts File
+ * jenesis Scripts File
  * Author: Eddie Machado
  *
  * This file should contain any js scripts you want to add to the site.

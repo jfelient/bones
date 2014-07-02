@@ -4,11 +4,15 @@ This theme is meant to make development easier & take
 advantage of modern web development & design techniques.
 For more information, please visit:
 
-http://themble.com/bones/
+http://demo.bizdotsmedia.com/jenesis/
 
-Author: Eddie Machado
+Author: Eddie Machado (Now Jean Felisme)
 
 *******************************************************************
+
+/* 2.0 Bones --> Jenesis */
+- made name change and code sintex changes to jenesis
+- adding zurb foundation 
 
 /* 1.(I've lost track so I'm starting at)7 update */
 - reworked Sass files and broke them into partials
