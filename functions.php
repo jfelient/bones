@@ -15,7 +15,7 @@ require_once( 'library/bones.php' );
 require_once( 'library/custom-post-type.php' );
 
 // CUSTOMIZE THE WORDPRESS ADMIN (off by default)
-// require_once( 'library/admin.php' );
+require_once( 'library/admin.php' );
 
 /*********************
 LAUNCH BONES
@@ -25,7 +25,7 @@ Let's get everything up and running.
 function bones_ahoy() {
 
   // let's get language support going, if you need it
-  load_theme_textdomain( 'bonestheme', get_template_directory() . '/library/translation' );
+  load_theme_textdomain( 'jenesis', get_template_directory() . '/library/translation' );
 
   // launching operation cleanup
   add_action( 'init', 'bones_head_cleanup' );
