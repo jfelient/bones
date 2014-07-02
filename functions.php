@@ -60,6 +60,9 @@ function jenesis_ahoy() {
 // let's get this party started
 add_action( 'after_setup_theme', 'jenesis_ahoy' );
 
+// kirki theme customizr
+include_once( dirname( __FILE__ ) . '/kirki/kirki.php' );
+
 
 /************* OEMBED SIZE OPTIONS *************/
 
